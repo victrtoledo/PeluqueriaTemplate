@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\assets\\img\\DS4Windows_V3.3.3.zip"
     },
     {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\FLYER FORMARCIÓN (6).png",
+      "PackagePath": "staticwebassets\\assets\\img\\FLYER FORMARCIÓN (6).png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\FLYER FORMARCIÓN (7).png",
+      "PackagePath": "staticwebassets\\assets\\img\\FLYER FORMARCIÓN (7).png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\FLYER FORMARCIÓN1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\FLYER FORMARCIÓN1.png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\FLYER FORMARCIÓN2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\FLYER FORMARCIÓN2.png"
+    },
+    {
       "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\MueblesRosanLogo.png",
       "PackagePath": "staticwebassets\\assets\\img\\MueblesRosanLogo.png"
     },
@@ -119,6 +135,14 @@
     {
       "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\fondoPantalla.png",
       "PackagePath": "staticwebassets\\assets\\img\\fondoPantalla.png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\formacionAlmeria.png",
+      "PackagePath": "staticwebassets\\assets\\img\\formacionAlmeria.png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\formacionRomania.png",
+      "PackagePath": "staticwebassets\\assets\\img\\formacionRomania.png"
     },
     {
       "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\foto-farmacia.jpg",
@@ -289,8 +313,8 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\main-K3V4QWHT.js",
-      "PackagePath": "staticwebassets\\main-K3V4QWHT.js"
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\main-5QDHIRMZ.js",
+      "PackagePath": "staticwebassets\\main-5QDHIRMZ.js"
     },
     {
       "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\polyfills-B6TNHZQ6.js",
