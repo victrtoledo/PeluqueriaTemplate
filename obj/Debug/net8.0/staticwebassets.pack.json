@@ -1,207 +1,307 @@
 {
   "Files": [
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\MueblesRosanLogo.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\DS4Windows_V3.3.3.zip",
+      "PackagePath": "staticwebassets\\assets\\img\\DS4Windows_V3.3.3.zip"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\MueblesRosanLogo.png",
       "PackagePath": "staticwebassets\\assets\\img\\MueblesRosanLogo.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\MueblesRosanLogo2.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\MueblesRosanLogo2.png",
       "PackagePath": "staticwebassets\\assets\\img\\MueblesRosanLogo2.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\cama-velvet.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\Notificacion_1786022104947.pdf",
+      "PackagePath": "staticwebassets\\assets\\img\\Notificacion_1786022104947.pdf"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\WhatsApp Image 2026-07-11 at 15.05.42.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\WhatsApp Image 2026-07-11 at 15.05.42.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\WhatsApp Image 2026-07-11 at 15.07.06.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\WhatsApp Image 2026-07-11 at 15.07.06.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\cama-velvet.webp",
       "PackagePath": "staticwebassets\\assets\\img\\cama-velvet.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\close-btn.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\close-btn.png",
       "PackagePath": "staticwebassets\\assets\\img\\close-btn.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\diagnosis-300x300-1.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\cocoVideos3.mp4",
+      "PackagePath": "staticwebassets\\assets\\img\\cocoVideos3.mp4"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\cocosVideo1.mp4",
+      "PackagePath": "staticwebassets\\assets\\img\\cocosVideo1.mp4"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\cocosVideo2.mp4",
+      "PackagePath": "staticwebassets\\assets\\img\\cocosVideo2.mp4"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\diagnosis-300x300-1.webp",
       "PackagePath": "staticwebassets\\assets\\img\\diagnosis-300x300-1.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\estanteria-loft.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\estanteria-loft.webp",
       "PackagePath": "staticwebassets\\assets\\img\\estanteria-loft.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-exterior.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\factura apple ipad.pdf",
+      "PackagePath": "staticwebassets\\assets\\img\\factura apple ipad.pdf"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\factura apple.pdf",
+      "PackagePath": "staticwebassets\\assets\\img\\factura apple.pdf"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-exterior.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-exterior.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-exterior.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-exterior.webp",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-exterior.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-ia.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-exterior2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\farmacia-exterior2.webp"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-ia.png",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-ia.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-ia2.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-ia2.png",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-ia2.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-interior.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-interior.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-interior.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-interior.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-interior.webp",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-interior.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-interior2.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-interior2.webp",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-interior2.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-interior3.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-interior3.webp",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-interior3.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-laboratorio.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-laboratorio.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-laboratorio.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\farmacia-personal.jpeg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\farmacia-personal.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\farmacia-personal.jpeg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\favicon-farmacia.svg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\favicon-farmacia.svg",
       "PackagePath": "staticwebassets\\assets\\img\\favicon-farmacia.svg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\favicon2.PNG",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\favicon2.PNG",
       "PackagePath": "staticwebassets\\assets\\img\\favicon2.PNG"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\fondoPantalla.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\fondoPantalla.png",
       "PackagePath": "staticwebassets\\assets\\img\\fondoPantalla.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\foto-farmacia.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\foto-farmacia.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\foto-farmacia.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\interior.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\foto-navaja.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\foto-navaja.jpg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\imagen-interior.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\imagen-interior.jfif"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\imagen-interior.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\imagen-interior.jpg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\imagen-peluqueria.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\imagen-peluqueria.jpg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\interior.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\interior.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\lampara-arc.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\lampara-arc.webp",
       "PackagePath": "staticwebassets\\assets\\img\\lampara-arc.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\logo-farmacia.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\lghub_installer.exe",
+      "PackagePath": "staticwebassets\\assets\\img\\lghub_installer.exe"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\logo-farmacia.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo-farmacia.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\logo-farmacia.svg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\logo-farmacia.svg",
       "PackagePath": "staticwebassets\\assets\\img\\logo-farmacia.svg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\logo-farmacia2.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\logo-farmacia.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-farmacia.webp"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\logo-farmacia2.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo-farmacia2.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\logo.png",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\menuHamburguesa.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\menuHamburguesa.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\menuHamburguesa.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\mesa-roble.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\mesa-roble.webp",
       "PackagePath": "staticwebassets\\assets\\img\\mesa-roble.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\muebles1.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\muebles1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\muebles1.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\muebles2.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\muebles2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\muebles2.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\muebles3.jpg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\muebles3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\muebles3.jpg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\sillon-mimbre.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri.PNG"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri1.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri10.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri10.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri2.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri3.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri4.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri5.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri6.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri6.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri7.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri7.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri8.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri8.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\rodri9.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\rodri9.jpeg"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\sillon-mimbre.webp",
       "PackagePath": "staticwebassets\\assets\\img\\sillon-mimbre.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\sofa-nube.webp",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\sofa-nube.webp",
       "PackagePath": "staticwebassets\\assets\\img\\sofa-nube.webp"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\img\\whatsapp.svg",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\tarjeta credito 7171.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tarjeta credito 7171.png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\tarjeta para amazon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tarjeta para amazon.png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\victor toledo taarjeta.png",
+      "PackagePath": "staticwebassets\\assets\\img\\victor toledo taarjeta.png"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\img\\whatsapp.svg",
       "PackagePath": "staticwebassets\\assets\\img\\whatsapp.svg"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\videos\\farmacia-pastillas.mp4",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\videos\\farmacia-pastillas.mp4",
       "PackagePath": "staticwebassets\\assets\\videos\\farmacia-pastillas.mp4"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\videos\\muebles.mp4",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\videos\\muebles.mp4",
       "PackagePath": "staticwebassets\\assets\\videos\\muebles.mp4"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\videos\\muebles2.mp4",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\videos\\muebles2.mp4",
       "PackagePath": "staticwebassets\\assets\\videos\\muebles2.mp4"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\videos\\videoCoche.mp4",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\videos\\videoCoche.mp4",
       "PackagePath": "staticwebassets\\assets\\videos\\videoCoche.mp4"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\assets\\videos\\videoCoche2.mp4",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\assets\\videos\\videoCoche2.mp4",
       "PackagePath": "staticwebassets\\assets\\videos\\videoCoche2.mp4"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\favicon.ico",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\img\\Como_usar_cupon (3) (2).mp4",
-      "PackagePath": "staticwebassets\\img\\Como_usar_cupon (3) (2).mp4"
-    },
-    {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\img\\analisis-rapido.jpg",
-      "PackagePath": "staticwebassets\\img\\analisis-rapido.jpg"
-    },
-    {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\img\\pendientes.jpg",
-      "PackagePath": "staticwebassets\\img\\pendientes.jpg"
-    },
-    {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\img\\salud.jpg",
-      "PackagePath": "staticwebassets\\img\\salud.jpg"
-    },
-    {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\img\\spd.webp",
-      "PackagePath": "staticwebassets\\img\\spd.webp"
-    },
-    {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\img\\tension.jpg",
-      "PackagePath": "staticwebassets\\img\\tension.jpg"
-    },
-    {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\index.html",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\main-2J354IST.js",
-      "PackagePath": "staticwebassets\\main-2J354IST.js"
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\main-K3V4QWHT.js",
+      "PackagePath": "staticwebassets\\main-K3V4QWHT.js"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\polyfills-B6TNHZQ6.js",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\polyfills-B6TNHZQ6.js",
       "PackagePath": "staticwebassets\\polyfills-B6TNHZQ6.js"
     },
     {
-      "Id": "D:\\farmacias template\\FarmaciasBackend\\wwwroot\\styles-5INURTSO.css",
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "D:\\rodriPeluquero\\backend\\wwwroot\\styles-5INURTSO.css",
       "PackagePath": "staticwebassets\\styles-5INURTSO.css"
     },
     {
